@@ -1,0 +1,3 @@
+{"case_id":"citations","score":0.95,"passed":true}
+{"case_id":"formatting","score":0.70,"passed":false}
+{"case_id":"long-context","score":0.90,"passed":true}
